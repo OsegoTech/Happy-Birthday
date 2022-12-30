@@ -198,7 +198,7 @@ button {
 
 /* Javascript Styling Link */
 .accordion .content-container.active .answer {
-    height: 100px;
+    height: 150px;
     color: #80ff00;
     font-size: 18px;
 }
